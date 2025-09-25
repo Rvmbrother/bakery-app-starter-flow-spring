@@ -121,3 +121,11 @@ Pro components used in the starter are :
  - [Vaadin Confirm Dialog](https://vaadin.com/components/vaadin-confirm-dialog)
 
  Also the tests are created using [Testbench](https://vaadin.com/testbench) library.
+
+ ## Team — Nickname: The Bakers
+
+| Course | Student # | Name                   | GitHub        |
+|-------:|:---------:|------------------------|---------------|
+| LETI   | 110331    | Francisco Vaz Monteiro | @LETI-110331  |
+| LETI   | XXXXX     | Teammate 2             | @LETI-XXXXX   |
+| LETI   | YYYYY     | Teammate 3             | @LETI-YYYYY   |
